@@ -1,0 +1,13 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %} {% block content
+    %}
+    <h1 align="center">Create Your Pitches</h1>
+    
+    <form method="POST">
+      <textarea name="text" id="text" class="form-control"></textarea>
+      <br />
+      <div align="center">
+        <button type="submit" class="btn btn-md btn-success">Pitch</button>   
+      <a href="/home"><button type="button" class="btn btn-md btn-secondary">Back</button></a>
+    </div>
+  </form>
+    {% endblock %}
