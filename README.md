@@ -20,6 +20,7 @@ in a database. The application also provides various categories of pitches.
 * python version 3 
 
 * pip
+
 * flask
 * sqlalchemy
 * The virtual environment
