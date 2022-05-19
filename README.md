@@ -69,7 +69,8 @@ Technologies used in the development of this project include:
 
 * Flask
 
-* Bootstrap
+* 
+
 * HTML
 * CSS
 * Sqlalchemy
