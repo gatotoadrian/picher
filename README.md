@@ -28,6 +28,7 @@ in a database. The application also provides various categories of pitches.
 * The virtual environment
 
 ## Setup
+
   To set up this application:
 * Fork this repository to your github account.
 * Open the terminal on your pc and navigate to the specific folder location that you want this directory to be stored.
