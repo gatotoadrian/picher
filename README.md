@@ -66,6 +66,7 @@ Technologies used in the development of this project include:
 
 
 * Python3.8
+
 * Flask
 * Bootstrap
 * HTML
