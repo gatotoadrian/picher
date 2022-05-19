@@ -74,6 +74,7 @@ Technologies used in the development of this project include:
 * HTML
 
 * CSS
+
 * Sqlalchemy
 
 ## Known Bugs
