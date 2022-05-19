@@ -40,6 +40,7 @@ in a database. The application also provides various categories of pitches.
 * Navigate to the specific location you cloned the project into.
 
 * Open the AppMe project folder using vs code using command code . or atom . depending on the IDE you're using.
+
 * Activate the virtual environment.
 
 
