@@ -22,6 +22,7 @@ in a database. The application also provides various categories of pitches.
 * pip
 
 * flask
+
 * sqlalchemy
 * The virtual environment
 
